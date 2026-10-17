@@ -244,4 +244,4 @@ This repository serves as the official landing page for World Basketball Manager
 **Get the most recent version of World Basketball Manager today!**
 
 ---
-**Last updated:** 2026-10-17 11:25:48 UTC
+**Last updated:** 2026-10-17 15:06:06 UTC
